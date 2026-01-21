@@ -1,0 +1,51 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Generated frames / renders ###
+frame*.png
+
+### (Optional) ignore all images if you truly want none tracked ###
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+
+### Java compiled output ###
+*.class
+
+### IntelliJ / project metadata (keep if you want, but usually ignored) ###
+.idea/
+*.iml
+
+### Python tool caches ###
+__pycache__/
+*.pyc
+.venv/
+.env
